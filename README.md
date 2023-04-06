@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello, I'm Vinicius Pires 👋
 
-<!--
-**ViniciusPirees/ViniciusPirees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄I am a 22-year-old residing in Votorantim, São Paulo 🇧🇷. I have been studying programming since 2018 and have been working in the field since 2020.
 
-Here are some ideas to get you started:
+🚀My current goal is to expand my knowledge of programming languages and seeking a programming job that offers flexibility in terms of scheduling and work arrangements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖱️The programming languages that I am proficient in.
+<div style:"display: inline-block">
+  <img align="center" width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+<br>
+
+📘The programming languages that I am currently studying.
+<div style:"display: inline-block">
+  <img align="center" width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
+<br>
